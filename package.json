@@ -1,0 +1,21 @@
+{
+  "name": "deploy_v_2.0",
+  "version": "1.0.0",
+  "description": "basic backend development ",
+  "keywords": [
+    "node",
+    "basic",
+    "development"
+  ],
+  "license": "ISC",
+  "author": "Tanmay Barman",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1"
+  }
+}
